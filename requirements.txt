@@ -1,3 +1,4 @@
-lxml<=3.8.0
+openupgradelib
+lxml
 pyopenssl>=17.5.0
 cryptography>=1.7.1
