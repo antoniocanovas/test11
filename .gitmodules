@@ -26,3 +26,7 @@
 	path = bank-payment
 	url = https://github.com/oca/bank-payment.git
 	branch = 12.0
+[submodule "account-invoicing"]
+	path = account-invoicing
+	url = https://github.com/oca/account-invoicing.git
+	branch = 12.0
